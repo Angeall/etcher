@@ -21,7 +21,7 @@ import * as _ from 'lodash';
 import { GPTPartition, MBRPartition } from 'partitioninfo';
 import * as path from 'path';
 import * as React from 'react';
-import { Modal, Input } from 'rendition';
+import { Input, Modal } from 'rendition';
 import styled from 'styled-components';
 
 import * as errors from '../../../../shared/errors';
